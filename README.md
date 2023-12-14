@@ -1,4 +1,4 @@
-## NewYork Times Popular Articles
+# New York Times Popular Articles
 ***Key Features***
 - This project is designed to retrieve and display the most recent articles from The New York Times newspaper as a list.
 - Users can select any article to read it in a separate view.
