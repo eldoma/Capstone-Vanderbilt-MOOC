@@ -12,7 +12,7 @@
  - Broadcast Receivers
  - Service
 
-*** I/O Diagram ***
+***I/O Diagram***
 
 ![I/O](https://github.com/eldoma/Capstone-Vanderbilt-MOOC-Week-1/blob/main/Main_Activity.drawio.png)
 
