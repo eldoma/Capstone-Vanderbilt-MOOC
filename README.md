@@ -12,5 +12,8 @@
  - Broadcast Receivers
  - Service
 
+*** I/O Diagram ***
+![I/O](https://github.com/eldoma/Capstone-Vanderbilt-MOOC-Week-1/blob/main/Main_Activity.drawio.png)
+
 ***URL***
  - http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7.json?api-key=cd2506cf35504016a7579eea094ad1bd
