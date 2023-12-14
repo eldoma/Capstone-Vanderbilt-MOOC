@@ -31,3 +31,6 @@ Replace "test" with "YOUR-API-KEY".
 ```
 public static final String API_KEY = "YOUR-API-KEY";
 ```
+***I/O Diagram***
+
+![I/O](https://github.com/eldoma/Capstone-Vanderbilt-MOOC/blob/main/Main_Activity.drawio.png)
